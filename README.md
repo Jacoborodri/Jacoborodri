@@ -1,4 +1,10 @@
 # Hi, I'm Jacob
 
 ## 🚀 About Me
-I'm a Mobile Developer📱
+Systems Engineering student at **ESCOM-IPN** 💻
+
+### 🛠 Tech Stack
+- **Languages:** Kotlin, Prolog, Java
+- **OS:** Linux (Ubuntu)
+- **Tools:** Git, GitHub, VS Code
+
