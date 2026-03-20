@@ -17,4 +17,4 @@ Systems Engineering student at **ESCOM-IPN** 💻
 - Building cool apps with Kotlin.
 
 
-## Gola deni
+
