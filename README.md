@@ -16,3 +16,5 @@ Systems Engineering student at **ESCOM-IPN** 💻
 - Pursuing a Master's in Mobile Computational Systems.
 - Building cool apps with Kotlin.
 
+
+## Gola deni
